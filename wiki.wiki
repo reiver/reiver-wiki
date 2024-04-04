@@ -16,6 +16,12 @@ So there are 3 main properties of a **wiki**:
 Which means that, what is considered //quick and easy// will depend on who the //people// are.
 For example, what is in general considered //quick and easy// to most random regular //people// could be different than is considered //quick and easy// if the //people// were just software engineers.)
 
+Earlier on (when the word **wiki** was first being used) a 4th property was also considered a requirement:
+
+• the writing and editing experience can be **collaborative** with people (in a //turn-based// manner).
+
+But, over time this property seems to have been dropped as a requirement, as there are things that aren't //collaborative// in this way that are still called **wikis**.
+
 §§ Formatted‐Text
 
 **Formatted‐Text** is writing that supports:
