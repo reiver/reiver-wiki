@@ -59,7 +59,8 @@ The phrase **wiki wiki web** is derived from the **Hawaiian** word “//wikiwiki
 As the story goes —
 **Howard G. Cunningham** (who usually goes by “Ward”) was at the //Honolulu International Airport// in **Hawaii**.
 At one point while Ward Cunningham was there, an employee at the //Honolulu International Airport// told Ward Cunningham to take the **wiki wiki shuttle** — which is the name of a free //shuttle bus// available at the //Honolulu International Airport// in **Hawaii**.
-Later when Ward Cunningham was trying think up a name for software he was creating, he first thought about naming the software //quick web//, but later decided to call it //wiki wiki web// — effectively naming it after the //wiki wiki shuttle//.
+Later when Ward Cunningham was trying to think up a name for software he was creating.
+He first thought about naming the software //quick web//, but later decided to call it //wiki wiki web// — effectively naming it after the //wiki wiki shuttle//.
 
 (Ward Cunningham created what is considered the first **wiki** — which he (eventually) called **wiki wiki web** (or **WikiWikiWeb**) and was hosted on the Internet‐domain ``wiki.c2.com``.
 Ward Cunningham is also usually (mainly) credited for the word **wiki** (also) becoming an English word meaning — a form of //quick and easy// digital writing that supports //formatted‐text// and //hyper‐text// — rather than just meaning //quick//, //fast//, //switft//.)
@@ -69,7 +70,7 @@ Interestingly, the **Hawaiian** word “//wikiwiki//” is //reduplication// of 
 Thus, the English word “//wiki//” is derived from the Hawaiian word “//wikiwiki//” which itself is derived from the Hawaiian word “//wiki//”.
 So, //we have come full circle// 🙂
 
-The **Hawaiian** //reduplication// “//wikiwiki//” is similar to the English //reduplications// “//go go//”, “//hurry hurry//” or “//quickly quickly//”.
+The **Hawaiian** //reduplication// “//wikiwiki//” is similar to the English //reduplications// “//go go//”, “//hurry hurry//” and “//quickly quickly//”.
 
 The English //reduplications// “//quickly quickly//” can be see in (some of) the lyrics to the song (meant for babies and very young children) called //slowly, slowly creeps the garden snail//:
 
