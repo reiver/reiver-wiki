@@ -1,0 +1,78 @@
+wiki/1
+
+§ Wiki
+
+by ((Charles Iliya Krempeaux))
+
+A **wiki** is a type of **digital writing** that makes it **quick and easy** for people to create //formatted// **hyper‐text** — i.e., text that is both **formatted‐text** and **hyper‐text**.
+
+So there are 3 main properties of a **wiki**:
+
+• it is **formatted‐text**,
+• it is **hyper‐text**, and
+• it is **quick and easy** for people to create.
+
+(And note that, what we mean by “//people//” is left ambiguous in this description.
+Which means that, what is considered //quick and easy// will depend on who the //people// are.
+For example, what is in general considered //quick and easy// to most random regular //people// could be different than is considered //quick and easy// if the //people// were just software engineers.)
+
+§§ Formatted‐Text
+
+**Formatted‐Text** is writing that supports:
+
+• //bolding// text,
+• //italicizing// text,
+• //coloring// text,
+• //under‐lining// text,
+• //over‐lining// text,
+• creating //sub‐scripts//,
+• creating //super‐scripts//,
+• //sizing// text (i.e,. making the font‐size larger or smaller),
+• using different //fonts// with text (include //monospaced fonts// and //proportional fonts//),
+• creating //horizontal rules//,
+• creating //paragraphs//,
+• creating //lists// (including nested //lists//),
+• creating //block quotations//,
+• etc.
+
+§§ Hyper‐Text
+
+**Hyper‐Text** is writing that supports //hyper‐links//.
+
+§§ Data‐Format versus Software‐Platform
+
+There are 2 main ways of thinking about //what is a wiki// —
+
+• a **wiki** is a type of **data format**, and
+• a **wiki** is a type of **software platform**.
+
+To make it so the word **wiki** isn't ambiguous, we can instead talk about:
+
+• a **wiki format**, and
+• a **wiki platform**.
+
+§§ Etymology
+
+The (English) word **wiki** is a shortening of the phrase **wiki wiki web** (which is sometimes written as **WikiWikiWeb**).
+The phrase **wiki wiki web** is derived from the **Hawaiian** word “//wikiwiki//” — which means //fast//, //speedy//, and //quick//.
+
+As the story goes —
+**Howard G. Cunningham** (who usually goes by “Ward”) was at the //Honolulu International Airport// in **Hawaii**.
+At one point while Ward Cunningham was there, an employee at the //Honolulu International Airport// told Ward Cunningham to take the **wiki wiki shuttle** — which is the name of a free //shuttle bus// available at the //Honolulu International Airport// in **Hawaii**.
+Later when Ward Cunningham was trying think up a name for software he was creating, he first thought about naming the software //quick web//, but later decided to call it //wiki wiki web// — effectively naming it after the //wiki wiki shuttle//.
+
+(Ward Cunningham created what is considered the first **wiki** — which he (eventually) called **wiki wiki web** (or **WikiWikiWeb**) and was hosted on the Internet‐domain ``wiki.c2.com``.
+Ward Cunningham is also usually (mainly) credited for the word **wiki** (also) becoming an English word meaning — a form of //quick and easy// digital writing that supports //formatted‐text// and //hyper‐text// — rather than just meaning //quick//, //fast//, //switft//.)
+
+Interestingly, the **Hawaiian** word “//wikiwiki//” is //reduplication// of the **Hawaiian** word “//wiki//” — which means //to hurry//, //to hasten//, //quick//, //fast//, //swift//.
+
+Thus, the English word “//wiki//” is derived from the Hawaiian word “//wikiwiki//” which itself is derived from the Hawaiian word “//wiki//”.
+So, //we have come full circle// 🙂
+
+The **Hawaiian** //reduplication// “//wikiwiki//” is similar to the English //reduplications// “//go go//”, “//hurry hurry//” or “//quickly quickly//”.
+
+The English //reduplications// “//quickly quickly//” can be see in (some of) the lyrics to the song (meant for babies and very young children) called //slowly, slowly creeps the garden snail//:
+
+― Quickly, quickly, very quickly runs the little mouse. ― Quickly, quickly, very quickly round about the house.
+
+For completeness, one should also note another **Hawaiian** word: “//alawiki//” — which means //hurry//, //quick//, //fast//.
