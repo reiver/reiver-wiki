@@ -2,7 +2,7 @@ wiki/1
 
 § Wiki
 
-by ((Charles Iliya Krempeaux))
+⸺ by Charles Iliya Krempeaux
 
 A **wiki** is a type of **digital writing** that makes it **quick and easy** for people to create //formatted// **hyper‐text** — i.e., text that is both **formatted‐text** and **hyper‐text**.
 
