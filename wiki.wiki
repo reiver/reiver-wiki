@@ -22,6 +22,8 @@ Earlier on (when the word **wiki** was first being used) a 4th property was also
 
 But, over time this property seems to have been dropped as a requirement, as there are things that aren't //collaborative// in this way that are still called **wikis**.
 
+But once can also talk about a **personal-wiki** versus a **collaborative-wiki**.
+
 §§ Formatted‐Text
 
 **Formatted‐Text** is writing that supports:
@@ -49,15 +51,28 @@ But, over time this property seems to have been dropped as a requirement, as the
 
 There are 2 main ways of thinking about //what is a wiki// —
 
-• a **wiki** is a type of **data format**, and
-• a **wiki** is a type of **software platform**.
+• a **wiki** is a type of **data-format**, and
+• a **wiki** is a type of **software-platform**.
 
 To make it so the word **wiki** isn't ambiguous, we can instead talk about:
 
-• a **wiki format**, and
-• a **wiki platform**.
+• a **wiki-format**, and
+• a **wiki-platform**.
 
-§§ Etymology
+§§ Wiki-Format
+
+There are a number of different **wiki** formats:
+
+• [[c2wiki-format]] (which is the original wiki-format!),
+• [[cvwiki-format]],
+• [[confluence-format]],
+• [[dokuwiki-format]],
+• [[mediawiki-format]],
+• [[phpwiki-format]],
+• [[wiki/1]],
+• etc.
+
+§§ Wiki Etymology
 
 The (English) word **wiki** is a shortening of the phrase **wiki wiki web** (which is sometimes written as **WikiWikiWeb**).
 The phrase **wiki wiki web** is derived from the **Hawaiian** word “//wikiwiki//” — which means //fast//, //speedy//, and //quick//.
@@ -83,3 +98,5 @@ The English //reduplications// “//quickly quickly//” can be see in (some of)
 ― Quickly, quickly, very quickly runs the little mouse. ― Quickly, quickly, very quickly round about the house.
 
 For completeness, one should also note another **Hawaiian** word: “//alawiki//” — which means //hurry//, //quick//, //fast//.
+
+§§ Hyper-Text Syntax
