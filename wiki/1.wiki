@@ -1,0 +1,22 @@
+wiki/1
+
+§ wiki/1
+
+⸺ by ((Charles Iliya Krempeaux))
+
+**wiki/1** is a [[wiki]] [[data-format]].
+
+Its inline syntax looks like this:
+
+	'(('))superscript(('))'
+	((())((())no-op)(()))
+	*((*))bold((*))*
+	,((,))subscript((,)),
+	/((/))italics((/))/
+	:((:))smart-code((:)):
+	[(([))internal-link((]))]
+	_((_))underline((_))_
+	`((`))mononspaced((`))`
+	{(({))name((}))}
+	|((|))highlight((|))|
+	‾((‾))overline((‾))‾
